@@ -1,12 +1,12 @@
-# 🎞️ Python GIF Creator 🐍
+# ✨ SG GIF Creator 🎞️🐍
 
-This simple project uses Python and `imageio` to create a GIF from a list of images! 🖼️➡️🎞️
+This Python project uses `imageio` to create a smooth animated GIF from a sequence of SG-themed images! 🎨🖼️
 
-- 📂 Input: Two images (`mad_man1.png` & `mad_man2.png`)
-- ⚙️ Process: Reads images and combines them into a GIF
-- 🕒 Duration: 0.5s per frame
-- 🔁 Loops: Infinite
+- 📂 Input: 4 images (`SG1 (1).png` to `SG1 (4).png`)
+- 🛠️ Tool: Python + imageio
+- ⏱️ Frame Duration: 150ms
+- 🔁 Loop: Infinite
 
-🎉 Output: `mad_man5.gif`
+🎉 Output: `SG3.gif` – A looping animation showcasing a sequence of visuals!
 
-Perfect for quick animations and visual projects! ✨
+Perfect for simple visual storytelling or digital art! 💡🔥
